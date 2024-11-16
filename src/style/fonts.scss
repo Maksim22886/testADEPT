@@ -1,0 +1,38 @@
+//regular
+
+/* cyrillic and latin */
+@font-face {
+    font-family: 'Stem';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src:
+        url('./Stem-Regular-TW.woff2') format('woff2'),
+        url('./Stem-Regular-TW.woff') format('woff');
+}
+
+//semibold
+
+/* cyrillic and latin */
+@font-face {
+    font-family: 'Stem';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src:
+        url('./Stem-Medium-TW.woff2') format('woff2'),
+        url('./Stem-Medium-TW.woff') format('woff');
+}
+
+//bold
+
+/* cyrillic and latin */
+@font-face {
+    font-family: 'Stem';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src:
+        url('./Stem-Bold-TW.woff2') format('woff2'),
+        url('./Stem-Bold-TW.woff') format('woff');
+}
