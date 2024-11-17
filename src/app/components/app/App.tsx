@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Routes, Navigate } from 'react-router-dom';
 import './style/app.module.scss';
-import { CompaniesTab } from '../../pages/ListCompanies/CompaniesTab';
+import { CompaniesTab } from '../../pages/CompaniesTab/CompaniesTab';
 
 const App: React.FC = () => {
   return (
