@@ -1,23 +1,11 @@
 @mixin mobile {
-    @media (width <= 768px) {
-        @content;
-    }
+  @media (width <= 768px) {
+    @content;
+  }
 }
 
 @mixin desktop {
-    @media (width > 768px) {
-        @content;
-    }
-}
-
-@mixin dark {
-    @media (prefers-color-scheme: dark) {
-        @content;
-    }
-}
-
-@mixin light {
-    @media (prefers-color-scheme: light) {
-        @content;
-    }
+  @media (width > 768px) {
+    @content;
+  }
 }

@@ -1,0 +1,28 @@
+.add_block {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.valustyled_input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.valustyled_input:focus {
+  border-color: #7177f8;
+  outline: none;
+}
+
+.button_add {
+  background-color: #7177f8;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+}
+

@@ -1,0 +1,42 @@
+.company_table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.company_table th,
+.company_table td {
+  border: 1px solid #7177f8;
+  padding: 8px;
+  text-align: center;
+}
+
+.deleteAll {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.addCompany {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.option_block {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.checkedAll {
+  display: flex;
+  gap: 5px;
+}
+.trash {
+  color: #ff0000;
+  cursor: pointer;
+}

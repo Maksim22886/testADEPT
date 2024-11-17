@@ -1,0 +1,39 @@
+.trash {
+  color: #ff0000;
+  cursor: pointer;
+}
+
+.pencil {
+  cursor: pointer;
+}
+
+.put_block {
+  display: flex;
+  gap: 5px;
+  align-items: flex-end;
+  max-width: 180px;
+  min-width: 180px;
+}
+
+.editCell {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 5px;
+}
+
+.value {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  font-weight: 500;
+}
+
+.textIcon {
+  display: flex;
+  gap: 5px;
+}
+
+.plusCircle {
+  cursor: pointer;
+}
