@@ -1,6 +1,6 @@
 import { configureStore, Middleware, PayloadAction } from '@reduxjs/toolkit';
 import { useDispatch } from 'react-redux';
-import companiesReducer from './pages/ListCompanies/ListCompaniesSlice';
+import companiesReducer from './pages/CompaniesTab/ListCompaniesSlice';
 import { saveStateMiddleware } from './localStorageUtils';
 
 const store = configureStore({
