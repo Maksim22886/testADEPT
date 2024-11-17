@@ -1,14 +1,15 @@
-import React, { useEffect, useRef, useState } from 'react';
-import { Route, Routes } from 'react-router-dom';
+import React from 'react';
+import { Route, Routes, Navigate } from 'react-router-dom';
 import './style/app.module.scss';
-import { ListCompanies } from '../../pages/ListCompanies/ListCompanies';
+import { CompaniesTab } from '../../pages/ListCompanies/CompaniesTab';
 
 const App: React.FC = () => {
   return (
     <div>
       <section>
         <Routes>
-          <Route path="/ListCompanies" element={<ListCompanies />} />
+          <Route path="/" element={<Navigate to="/testADEPT" />} />
+          <Route path="/testADEPT" element={<CompaniesTab />} />
         </Routes>
       </section>
     </div>

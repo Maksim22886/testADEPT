@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/testADEPT/static/css/main.2ff9fa09.css",
+    "main.js": "/testADEPT/static/js/main.c7d30267.js",
+    "static/media/Stem-Medium-TW.woff": "/testADEPT/static/media/Stem-Medium-TW.ac6089865eba4f525d61.woff",
+    "static/media/Stem-Regular-TW.woff": "/testADEPT/static/media/Stem-Regular-TW.2659601259b7656ef168.woff",
+    "static/media/Stem-Bold-TW.woff": "/testADEPT/static/media/Stem-Bold-TW.09aa578793996d4f50a6.woff",
+    "static/media/Stem-Regular-TW.woff2": "/testADEPT/static/media/Stem-Regular-TW.8c5c5e125591f712f0fb.woff2",
+    "static/media/Stem-Medium-TW.woff2": "/testADEPT/static/media/Stem-Medium-TW.a8444c97b4fa86b7295a.woff2",
+    "static/media/Stem-Bold-TW.woff2": "/testADEPT/static/media/Stem-Bold-TW.42bb91420843afec2045.woff2",
+    "index.html": "/testADEPT/index.html",
+    "static/media/pencil.svg": "/testADEPT/static/media/pencil.cfc3b3867af919caf0fcff3c0735b125.svg",
+    "static/media/trash.svg": "/testADEPT/static/media/trash.6f5dbcaaa06339b2ad77edb4ce1a9bb1.svg",
+    "static/media/plus_circle.svg": "/testADEPT/static/media/plus_circle.092305361dfb8ebfbe0bebe6f454b5b0.svg",
+    "main.2ff9fa09.css.map": "/testADEPT/static/css/main.2ff9fa09.css.map",
+    "main.c7d30267.js.map": "/testADEPT/static/js/main.c7d30267.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ff9fa09.css",
+    "static/js/main.c7d30267.js"
+  ]
+}
